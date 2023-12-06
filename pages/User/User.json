@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Sales",
-    "slug": "sales",
+    "name": "User",
+    "slug": "user",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 730,
+          "bottomRow": 780,
           "containerStyle": "none",
           "snapRows": 80,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Sales",
+        "id": "User",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656e1d06895fa175c1245df9_6570a0069f32a763f21b8d8a"
+  "gitSyncId": "656e1d06895fa175c1245df9_6570c9f717530b0b89e9effb"
 }
