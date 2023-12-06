@@ -11,14 +11,6 @@
     {
       "id": "Game",
       "isDefault": false
-    },
-    {
-      "id": "User",
-      "isDefault": false
-    },
-    {
-      "id": "Posts",
-      "isDefault": false
     }
   ],
   "viewMode": false,
